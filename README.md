@@ -10,7 +10,8 @@ The goal is to classify reviews as **positive** or **negative**.
 
 #  Dataset for task 2
 
-The dataset used is the IMDB Dataset of  Movie Reviews**.
+The dataset used is the IMDB Dataset of  Movie Reviews
+(for task 2,from the csv file,as the csv file is massive so i had reduced the data to 860 data)
 
  Download Dataset:
 https://www.kaggle.com/code/nourhankarm/sentiment-analysis-of-movie-reviews-imdb-dataset/input
